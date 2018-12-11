@@ -1,0 +1,3638 @@
+[Game] Loaded stats server on port 88
+[Game] Listening on port 8080
+[Game] Current game mode is Free For All
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+TypeError [ERR_INVALID_CALLBACK]: Callback must be a function
+    at setTimeout (timers.js:429:11)
+    at GameServer.mainLoop (D:\Downloads\ogar-mod\workspace\src\GameServer.js:385:13)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
