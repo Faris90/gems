@@ -2,13 +2,14 @@
   "name": "Ogar",
   "version": "1.0.0",
   "description": "Open source Agar.io server",
-  "main": "src/index.js",
+  "main": "",
   "dependencies": {
     "ws": "^0.7.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node src/index.js"
   },
   "repository": {
     "type": "git",
